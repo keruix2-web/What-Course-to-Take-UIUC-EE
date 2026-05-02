@@ -32,3 +32,12 @@ The ECE course system at UIUC covers almost everything, I have took courses in a
 **ECE 333** Green Electric Energy  
 **ECE 457** Microwave Devices & Circuits  
 **ECE 459** Communications Systems  
+
+## General Education
+My suggection for general education is taking as less courses as possible. It is worth make an alarm in selection period. Unless you like it, engineers deserve some leisure time.  
+**PHIL 105** Introduction to Ethics  
+**ENGL 116** Introduction to American Literature  
+**SHS 222** Language & Culture of Deaf Communities  
+**ANTH 103** Anthro in a Changing World
+
+
